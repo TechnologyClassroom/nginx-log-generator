@@ -12,6 +12,7 @@ BENIGN_IPS = [
     '203.0.113.10', '198.51.100.100', '192.0.2.5',
     '169.254.169.254', '198.51.100.50', '144.96.23.25'
 ]
+
 PATH_WEIGHTS = {
     'entry': 65,       # Common entry points
     'deeper': 25,      # Deeper navigation
