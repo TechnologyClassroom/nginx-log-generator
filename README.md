@@ -16,10 +16,11 @@ Generate realistic NGINX access logs with customizable malicious patterns for se
 
 ## 📥 Installation
 
+Installation is not necessary and you can run the script after cloning the repository.
+
 ```bash
 git clone https://github.com/jxkx1/nginx-log-generator
 cd nginx-log-generator
-pip install -r requirements.txt
 ```
 
 ---
